@@ -1,2 +1,2 @@
 # Flappy_Bird
-Made a Flappy bird game using pygame library
+Made a Flappy bird game using pygame library.
